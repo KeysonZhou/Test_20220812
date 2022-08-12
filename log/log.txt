@@ -1,0 +1,6 @@
+2022-07-30 21:19:44,632 test_login.py[line:40]INFO 
+2022-07-30 21:19:46,091 test_login.py[line:45]INFO 
+2022-07-30 21:20:34,548 test_login.py[line:40]INFO 用户登录成功 
+2022-07-30 21:20:35,967 test_login.py[line:45]INFO 用户成功退出 
+2022-07-30 21:46:41,349 test_login.py[line:40]INFO 用户登录成功 
+2022-07-30 21:46:42,778 test_login.py[line:46]INFO 用户成功退出 
